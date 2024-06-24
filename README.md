@@ -13,5 +13,5 @@ This file has the code for training the model on the network and validating the 
 # Usage
 
 There are many adjustable variables (nodes per hidden layer, optimizer function, etc.) in the beginning of the code. Any adjustments outside of changing these choices will require further development on the user's part. 
-Much of this code was written while reading “Deep Learning with Python” 2nd edition by Fancois Chollet. It would be well advised to user’s new to Neural Networks to refer to this work before interacting with the model design.
+Much of this code was written while reading “Deep Learning with Python” 2nd edition by Fancois Chollet. It would be well advised to users new to Neural Networks to refer to this work before interacting with the model design.
 
